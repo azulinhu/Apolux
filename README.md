@@ -1,3 +1,2 @@
 # Apolux
-Hello, this repository is for programmers to use
-so if you are a programmer feel free ;)
+Hello, I'm discat and this is the Official Cool Studios github exclusively for people within the team
